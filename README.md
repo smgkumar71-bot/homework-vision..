@@ -7,11 +7,17 @@ App:https://homework-vision-7hev8pmnwvuvjx3dtlnbux.streamlit.app/
 ✨ Features
 
 📷 Solve questions from a photo or text
+
 🌐 English and Kannada replies
+
 💡 Hint-only mode, 2 / 5 / 10 mark answers, practice questions
+
 📝 Conversation summary
+
 🛠️ Tech Stack
+
 Python, Streamlit, Google Gemini APII chatbot that solves Math & Science homework
+
 
 ▶️ How to Run
 
