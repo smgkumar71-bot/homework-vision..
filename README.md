@@ -1,2 +1,16 @@
-# homework-vision..
-AI chatbot that solves Math &amp; Science homework
+homework-vision
+An AI homework helper chatbot for *Math & Science. Upload a photo or type your question and get step-by-step answers in *English or Kannada. Live App:https://homework-vision-7hev8pmnwvuvjx3dtlnbux.streamlit.app/
+
+✨ Features
+📷 Solve questions from a photo or text
+🌐 English and Kannada replies
+💡 Hint-only mode, 2 / 5 / 10 mark answers, practice questions
+📝 Conversation summary
+🛠️ Tech Stack
+Python, Streamlit, Google Gemini APII chatbot that solves Math & Science homework
+
+▶️ How to Run
+Install packages: pip install -r requirements.txt
+Start the app: python -m streamlit run app.py
+👤 Author
+Kumara B R
